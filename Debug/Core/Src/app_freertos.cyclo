@@ -1,0 +1,5 @@
+app_freertos.c:66:10:sqrt_new	3
+app_freertos.c:97:6:MX_FREERTOS_Init	1
+app_freertos.c:144:6:StartDefaultTask	2
+app_freertos.c:164:6:LedTaskFunc	1
+app_freertos.c:182:6:YellowLED	1
